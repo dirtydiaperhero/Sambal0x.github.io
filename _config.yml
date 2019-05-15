@@ -18,13 +18,13 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "My Infosec Journey"
 title_separator          : "-"
-name                     : "Samba0x"
+name                     : "Sambal0x"
 description              : "My Infosec Journey"
 url                      : "https://blog.sambal0x.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "Sambal0x/Sambal0x.github.io"
+teaser                   : "/assets/images/500x300.png"
+logo                     : "https://avatars0.githubusercontent.com/u/34885356?s=400&u=5aa80dfde128c6e2fa289c2e07b2899c37cee41d&v=4"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -40,7 +40,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :Sambal0x
 facebook:
   username               :
   app_id                 :
@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Richard Tan"
+  avatar           : "/assets/images/avatar.gif"
+  bio              : "Pentester/Hacker/Musician/Father"
+  location         : "Melbourne"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
